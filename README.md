@@ -21,7 +21,6 @@ Here are some ideas to get you started:
     📖 Software architecture • DevOps
     🎮 Music • Games • Anime • Code
 </pre>
-<br>
 <img src="assets/rabbit3.gif" height="100" />
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/luizfernandocjf/)
