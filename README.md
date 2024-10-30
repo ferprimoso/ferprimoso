@@ -21,10 +21,8 @@ Here are some ideas to get you started:
     📖 Software architecture • DevOps
     🎮 Music • Games • Anime • Code
 </pre>
-<br><br>
+<br>
 <img src="assets/rabbit3.gif" height="100" />
-
-<br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/luizfernandocjf/)
 [![](https://img.shields.io/badge/gmail-960019)](mailto:mail@ferprimoso@gmail.com)
