@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A024&center=true&width=435&lines=Hi%2C+i'm+Luiz+Fernando" alt="Typing SVG" /><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A024&center=true&width=435&lines=Hi%2C+i'm+Luiz+Fernando" alt="Typing SVG" />
 <pre>
     💼 ADS @ FATECRL • Fullstack Developer 
     💻 Node • React • Nest    
